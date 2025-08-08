@@ -1,2 +1,2 @@
-# music-player-app
-This is my first repository which contains music player app 
+# my-projects
+This is my first repository which contains my projects  
